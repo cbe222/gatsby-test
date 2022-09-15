@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{default:function(){return r}});var n=l(7294);function r(){return n.createElement("div",null,n.createElement("div",null,"Hello world"),n.createElement("div",null,"This is BunnyLOL time!"),n.createElement("button",{type:"primary"},"I'm a button"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-68fd787c0ca2011ab0ea.js.map
